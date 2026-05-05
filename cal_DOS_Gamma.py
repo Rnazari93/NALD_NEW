@@ -1,4 +1,5 @@
 # This Python code is used to compute the average density of states (DOS) and Affine force field correlator
+# Bahram
 
 import numpy as np
 import os
